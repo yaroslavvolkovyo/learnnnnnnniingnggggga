@@ -9,6 +9,7 @@ public class Sort {
         List<String> str = new ArrayList<String>();
         str.add("a");
         System.out.println("хохоххоох");
+        System.out.println("дарова");
     }
 
 
